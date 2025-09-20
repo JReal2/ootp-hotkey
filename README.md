@@ -5,7 +5,7 @@ This script provides hotkeys to automate common actions in Out of the Park Baseb
 - **F8**: Auto-play until tomorrow.
 - **F9**: Save the game.
 - **F10**: View yesterday's Box Score.
-- **F12**: Stop the script.
+- **Ctrl+Q**: Stop the script.
 
 ## Requirements
 
